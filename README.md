@@ -2,7 +2,7 @@
 
 🎮 🎱 Три мини-проекта, написанные в процессе изучения технологии **Windows Forms** в рамках изучения рисования, движения объектов на форме и принципов **ООП**.
 
-## 📁 CatchMeWinFormsApp
+## 🎮 CatchMeWinFormsApp
 
 <div align="center"><img src="https://github.com/snikitin-de/BallGamesWinFormsApp/assets/25394427/e2a23420-cdaa-4a86-bd3e-319ff64e972d"></div>
 
@@ -19,7 +19,7 @@
 
 ![Пример геймплея игры](https://github.com/snikitin-de/BallGamesWinFormsApp/assets/25394427/2f7862ae-af03-41b6-857c-a63bf7a88f7f)
 
-## 📁 CatchMeByMouseWinFormsApp
+## 🎮 CatchMeByMouseWinFormsApp
 
 <div align="center"><img src="https://github.com/snikitin-de/BallGamesWinFormsApp/assets/25394427/9d81acdc-ecd3-4420-897b-0c7ff6d461f1"></div>
 
@@ -38,7 +38,7 @@
 
 ![Пример геймплея игры](https://github.com/snikitin-de/BallGamesWinFormsApp/assets/25394427/89ef33b2-25e8-46e5-9acf-eed89a981103)
 
-## 📁 BilliardBallsWinFormsApp
+## 💻 BilliardBallsWinFormsApp
 
 <div align="center"><img src="https://github.com/snikitin-de/BallGamesWinFormsApp/assets/25394427/ccd9d366-c0ba-48a8-a24d-272aa56757d8"></div>
 
